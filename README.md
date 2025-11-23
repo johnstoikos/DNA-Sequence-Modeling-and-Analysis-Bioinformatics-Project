@@ -4,7 +4,7 @@
 ## Overview
 This project, developed in **Python**, focuses on the **modeling and analysis of DNA sequences** using core **bioinformatics methods**.  
 The program automatically generates datasets, performs multiple sequence alignment, builds a profile Hidden Markov Model (HMM), and evaluates new DNA sequences using the **Viterbi algorithm**.
-**The following project was created for a university class
+**The following project was created for a university class**
 
 ---
 
